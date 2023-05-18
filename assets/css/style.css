@@ -346,7 +346,8 @@ footer {
 /* Add styling to form */
 
 .form-section {
-    background-image: url(../images/rt.jpg) no-repeat center center;
+    background-image: url(../images/rt.jpg) ;
+    background-size: cover;
 }
 
 .signup-form {
