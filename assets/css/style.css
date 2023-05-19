@@ -47,6 +47,8 @@ h1, h2 {
 #menu a {
     text-decoration: none;
     color: inherit;
+    font-weight: bold;
+
 }
 
 #menu a:hover {
@@ -345,19 +347,19 @@ footer {
 
 /* Add styling to form */
 
-body {
-    height: 700px;
-}
+
 
 .form-section {
     background-image: url(../images/rt.jpg) ;
     background-size: cover;
+    padding-top: 150px;
 }
 
 .signup-form {
     color:#fff;
     background-color:rgba(60, 60, 60, 0.6);
-    padding:150px 50px;
+    padding:20px;
+    width: 40%;
     
 }
 
