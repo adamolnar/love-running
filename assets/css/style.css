@@ -352,7 +352,9 @@ footer {
 .form-section {
     background-image: url(../images/rt.jpg) ;
     background-size: cover;
-    padding-top: 150px;
+    padding: 150px 10px;
+    overflow: hidden;
+    width: 100%;
 }
 
 .signup-form {
