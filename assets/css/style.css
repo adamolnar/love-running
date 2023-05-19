@@ -400,6 +400,6 @@ footer {
 
 @media screen and (max-width: 700px) {
     .signup-form {
-        will-change: 80%;
+        width: 80%;
     }
 }
