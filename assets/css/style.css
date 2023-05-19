@@ -345,19 +345,19 @@ footer {
 
 /* Add styling to form */
 
+body {
+    height: 700px;
+}
+
 .form-section {
     background-image: url(../images/rt.jpg) ;
     background-size: cover;
 }
 
 .signup-form {
-    margin:150px 10% 0 0;
     color:#fff;
     background-color:rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    position:absolute;
-    left:10%;
-    padding:30px;
+    padding:150px 50px;
     
 }
 
