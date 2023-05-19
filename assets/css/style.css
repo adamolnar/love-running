@@ -397,3 +397,9 @@ footer {
     background-color:#fafafa;
     color:#f16c6b;
 }
+
+@media screen and (max-width: 700px) {
+    .signup-form {
+        will-change: 80%;
+    }
+}
